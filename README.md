@@ -12,8 +12,11 @@ README dosyası, bir adet te index.html barındıryor.
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 
 Linux için:
-``` cd kodluyoruzilkrepo
-    code . ```
+
+``` 
+cd kodluyoruzilkrepo
+code . 
+```
 
 # Constributing
 
