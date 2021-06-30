@@ -6,6 +6,7 @@ README dosyası, bir adet te index.html barındıryor.
 # Installation
 
 Öncelikle projeyi clonelayalın. 
+
 `https://github.com/OmerErtan10/kodluyoruzilkrepo.git`
 
 # Usage
